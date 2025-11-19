@@ -1,4 +1,5 @@
-# Cryptography-Final-Project---Steganography-Simulation
+# Cryptography FinalProject
+# Steganography-Simulation
 This is our final project for Cryptography and Network Security Course and Web Systems course, creating  a Stegonography Simulation
 # Instructions
 
@@ -15,5 +16,5 @@ Detailed Instructions:
   o Watermarked image
 • Add a short section explaining real-world uses of digital watermarking (e.g., protecting artworks, verifying ownership).
 
-#Expected Output:
+# Expected Output:
 An interactive demonstration of how digital watermarking works using steganography principles.
