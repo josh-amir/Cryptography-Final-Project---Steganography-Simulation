@@ -1,8 +1,9 @@
 # Cryptography FinalProject
 # Steganography-Simulation
 This is our final project for Cryptography and Network Security Course and Web Systems course, creating  a Stegonography Simulation
+# Collaborators / Members 
+Bangcailan, Eltagonde, Lascuña, Ngojo
 # Instructions
-
 Steganography Simulation: “Hidden Secrets”
 Objective: Demonstrate Digital Watermarking through Steganography.
 Detailed Instructions:
